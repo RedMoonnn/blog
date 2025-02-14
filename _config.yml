@@ -1,10 +1,11 @@
 title: CHY的学习blog
 subtitle: ''
 description: ''
-keywords: null
+keywords: learning notes
 author: CHY
-language: en
+language: zh-CN
 timezone: ''
+
 url: https:/redmoonnn.github.io/blog
 root: /blog/
 permalink: ':year/:month/:day/:title/'
@@ -59,8 +60,27 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: icarus
+theme: BlueLake
 deploy:
   type: git
   repo: https://github.com/RedMoonnn/blog.git
   branch: gh-pages
+
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
