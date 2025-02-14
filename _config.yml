@@ -4,11 +4,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: CHY的学习blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: CHY
 language: en
 timezone: ''
 
@@ -75,8 +75,6 @@ tag_map:
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
