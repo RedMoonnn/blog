@@ -70,8 +70,6 @@ tag_map:  # 标签映射
 
 # 元数据设置
 meta_generator: true  # 是否生成 meta generator 信息
-date_format: YYYY-MM-DD  # 日期格式
-time_format: HH:mm:ss  # 时间格式
 
 # 日期/时间格式
 ## Hexo 使用 Moment.js 来解析和显示日期
