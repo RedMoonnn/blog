@@ -60,7 +60,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: landscape
+theme: landscape  # 默认为landscape
 deploy:
   type: git
   repo: https://github.com/RedMoonnn/blog.git
